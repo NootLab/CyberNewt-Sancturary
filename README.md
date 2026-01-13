@@ -33,11 +33,8 @@ Components :
   - 3mm shrink tubing
   - 3D printer and filament 
   - Lasercutter (optional)
-
-  <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0962b866-1d87-4860-aee5-7663be442a05" />
-
   - A5 2mm foam sheet 
   - Craft knife
   - Copious caffeine
   
-  
+    <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0962b866-1d87-4860-aee5-7663be442a05" />
