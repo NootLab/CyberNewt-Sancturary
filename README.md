@@ -2,9 +2,7 @@
 How to upcycle a Creality Ender 3 to keep newts.
 A high tech vivarium to keep small terrestrial amphibians; requiring inexpensive hardware and leftovers from an old 3D printer. 
 Designed and assembled for a recently rescued newt (Morpheus) in under 48 hours. 
-
-![Image](https://github.com/user-attachments/assets/f7669447-8e2c-4c3e-9e06-bce3c1bc758e)
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/9c95ea0b-42af-4ed8-a569-1fbc01af4e8d" />
 Components : 
   - 1200 x 600 mm acrylic sheet (optional)
   - DHT11 sensor
