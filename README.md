@@ -36,5 +36,6 @@ Components :
   - A5 2mm foam sheet 
   - Craft knife
   - Copious caffeine
-  
+
+    <img width="2106" height="1184" alt="image" src="https://github.com/user-attachments/assets/f8ababbf-7256-4885-8115-63c8df71c169" />
     <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0962b866-1d87-4860-aee5-7663be442a05" />
